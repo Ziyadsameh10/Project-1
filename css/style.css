@@ -41,7 +41,7 @@ body{
 .empty{
     width: 100%;
     height: 100vh;
-    background-image: url(chess\ background.avif);
+    background-image: url(../images/chess\ background.avif);
     position: relative;
     background-size: cover;
 }
@@ -353,7 +353,7 @@ opacity: 1;
     top: 20px; 
 }
 
-    .card2{
+.card2{
     float: left;
     margin-left: 30px;
     margin-top: 50px;
@@ -435,7 +435,7 @@ opacity: 1;
     margin-top: 30px;
     position: relative;
 }
-    .card5layer{
+.card5layer{
     width: 100%;
     height:100%;
     background-color:rgba(0, 0, 0, 0.5);
@@ -568,11 +568,11 @@ p {
     padding-top: 50px;
     margin-top: 90px;
 }
-.Options1{
+.options1{
     float: left;
     width: 50%;
 }
-.Options2{
+.options2{
     width: 50%;
     float: left;
     padding-left:187px;
@@ -631,7 +631,7 @@ p {
 .parent6{
     width: 100%;
     height: 400px;
-    background-image: url(/sec6.jpg);
+    background-image: url(../images/sec6.jpg);
     position: relative;
     background-size: cover;
     background-attachment: fixed;
@@ -763,7 +763,7 @@ p {
 .parent-about{
     width: 100%;
     height: 400px;
-    background-image: url(sec10.jpg);
+    background-image: url(../images/sec10.jpg);
     position: relative;
     background-size: cover;
     background-attachment: fixed;
